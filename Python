@@ -1,0 +1,15 @@
+choice = input("Do you like Winter or Summer?")
+if choice == 'Winter':
+        if choice = input("Do you like snowboarding or skiing")
+    if choice2 == 'snowboarding':
+        print("You're adventurous")
+    elif choice2 == 'skiing'
+        print("Same thing i said earlier you're adventurous")
+    else:
+        print("Don't get frostbite")
+    elif choice == 'Summer':
+    if choice = input("Do you like the bearch or camping?")
+        if choice == 'bearch':
+            print("St. George Island State Park")
+        elif choice == 'camping':
+            print("Indian River")
